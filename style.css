@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgb(255, 255, 255);
 }
 
 .d-bloc button:hover {
@@ -477,6 +477,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    color: rgba(255, 255, 255, 1) !important;
 }
 
 .icon-lg {
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -727,7 +728,7 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+    color: #FFFFFF!important;
 }
 
 .icons {
@@ -776,6 +777,7 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+    font-size: 22px;
 }
 
 .btn-atomic-tangerine {
