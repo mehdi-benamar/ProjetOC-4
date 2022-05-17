@@ -517,7 +517,6 @@ button {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
     z-index: 500;
     transition: all .3s ease-in-out;
 }
@@ -742,6 +741,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .portfolio-row {
@@ -776,8 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
-    font-size: 22px;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
