@@ -862,6 +862,7 @@ h4 {
 }
 
 @media (max-width: 991px) {
+    
     .container {
         width: 100%;
     }
@@ -891,9 +892,31 @@ h4 {
 }
 
 @media (max-width: 767px) {
+    footer .list-link{
+        width: 20%;
+        margin: 20px auto;
+    }
+    footer .list-link nav{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer h4{
+        width: 200px;
+        text-align: center;
+    }
+    footer .list-link ul{
+        padding: 0;
+        text-align: center;
+        list-style: none;
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
+    }
+    footer .social > div{
+        margin-bottom: 20px;
     }
     h1,
     h2,
