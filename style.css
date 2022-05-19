@@ -477,7 +477,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
-    color: #646E68 !important;
+    color: #FFF !important;
 }
 
 .icon-lg {
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #0A0000 !important;
+    color: #0A0000;
 }
 
 .container {
@@ -692,7 +692,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #646E68!important;
+    color: #FFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -727,7 +727,7 @@ h1 {
 }
 
 h4 {
-    color: #646E68!important;
+    color: #FFF!important;
 }
 
 .icons {
@@ -826,9 +826,7 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 
-p.nickel{
-    color: #646E68 !important;
-}
+
 
 
 @media (max-width: 1024px) {
